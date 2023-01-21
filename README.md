@@ -1,1 +1,0 @@
-# Culturama-2023
