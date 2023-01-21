@@ -4,7 +4,7 @@ Esse projeto foi teve como objetivo fazer toda a parte de Flexbox e Grid (mobile
 <br>
 <br>
 <div>
-<img alt="imagem curso Praticando CSS: Grid e Flexbox" src="https://github.com/Feuchard/Culturama-2023/blob/main/assets/img/praticando-css-gird-e-flexbox">
+<img alt="imagem curso Praticando CSS: Grid e Flexbox" src="https://github.com/Feuchard/Culturama-2023/blob/main/assets/img/praticando-css-grid-e-flexbox.png">
 <br>
 <br>
   <ul>
