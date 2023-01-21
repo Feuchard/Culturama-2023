@@ -1,6 +1,6 @@
 # Culturama-2023
 
-Esse projeto teve como objetivo fazer toda a parte de Flexbox e Grid (mobile / tablet / desktop) de um site ja "pronto", e foi realizado com os conhecimentos que adquiri no curso Praticando CSS: Grid e Flexbox da Alura.
+Esse projeto teve como objetivo fazer toda a parte de Flexbox e Grid (mobile-360p / tablet-720p / desktop-1440p) de um site ja "pronto", e foi realizado com os conhecimentos que adquiri no curso Praticando CSS: Grid e Flexbox da Alura.
 <br>
 <br>
 <div>
